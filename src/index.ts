@@ -1,3 +1,3 @@
-import Tour from './components/tour'
+import Generic from './components/generic'
 
-export { Tour }
+export { Generic }
